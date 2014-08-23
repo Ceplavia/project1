@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+/*testing~*/
 {
 	int a;
 	printf("input a symbol to get ASCII:");
